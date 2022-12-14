@@ -1,0 +1,24 @@
+@import "fonts";
+
+body{
+  font-family: d9464;
+  background-color: rgb(170, 170, 193);
+
+  span {
+    color: rgb(20, 182, 85);
+  }
+}
+
+
+@media (max-width: 700px) {
+  span {
+    font-size: 30px;
+  }
+}
+
+
+@media (max-width: 700px) {
+  p {
+    color: aqua;
+  }
+}
