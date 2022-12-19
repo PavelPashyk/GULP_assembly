@@ -3,12 +3,12 @@
 
 npm i
 
-npm dev ("gulp")
+npm run dev ("gulp")
 
-npm build ("gulp build --build")
+npm run build ("gulp build --build")
 
-npm zip ("gulp deployZIP --build")
+npm run zip ("gulp deployZIP --build")
 
-npm deploy ("gulp deployFTP --build")
+npm run deploy ("gulp deployFTP --build")
 
-npm svgSprive ("gulp svgSprive")
+npm run svgSprive ("gulp svgSprive")
